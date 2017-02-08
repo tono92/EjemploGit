@@ -23,7 +23,7 @@ public class EjemploGit {
 
         System.out.println("esto es una prueba");
         
-                
+        System.out.println("Esta linea es para mi nueva rama");
     }
     
 }
