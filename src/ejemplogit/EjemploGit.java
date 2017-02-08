@@ -20,8 +20,9 @@ public class EjemploGit {
         
         System.out.println("otra linea");
         
+
         System.out.println("esto es una prueba");
-        System.out.println("Esta es la cuarta linea que luego borrare...");
+        
                 
     }
     
